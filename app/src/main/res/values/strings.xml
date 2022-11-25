@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">zd1_chernshov</string>
+    <string-array name="catNames">
+        <item>фильм1</item>
+        <item>фильм2</item>
+        <item>фильм3</item>
+        <item>фильм4</item>
+    </string-array>
+</resources>
